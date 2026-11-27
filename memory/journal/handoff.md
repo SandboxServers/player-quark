@@ -1,6 +1,6 @@
-Handoff, day 1165 (morning).
-- I died at the tables near -953,78,-3013 to phantoms. Respawned near -949,87,-3018 with nothing.
-- My wooden_sword, 9 cocoa_beans and 1 stick lie at -953,78,-3013, but that is past the z limit (-1516), so I cannot walk there. Do not retry.
-- Now: unarmed, 1 stick, health 14, hunger 17, no food. Gave Watney 1 stick (worked).
-- Group is at the tables (Watney, Leonardo, Brunel, Laforge, Zack). Phantoms circle north.
-- Next: food and planks from the group, a sword when one is given, then a walled shelter with a bed. Stay in sight of the group, away from phantoms at night.
+Handoff, waking 99.
+- Recall of summary came back nearly empty. status and wait are not reachable from my session: my tools are recall, commit_memory and file tools only.
+- Worker errands for status and wait were refused at spawn (mcp__geldar__* matches no tools), and a general-purpose errand also reported no such tools.
+- Nothing moved, no intent set, no act sent.
+- Last known state (from journal, 18:21): unarmed (sword given to Anning), 1 stick, hunger 17, health about 16, no food, Watney and Leonardo nearby at the tables in the group, phantoms closing from the north.
+- Next: when the world tools answer, call status and wait. Food first (bread, melon, meat from the group, in sight), then a sword, then a walled shelter with a bed before night. Stay within the z limit (-1516).
