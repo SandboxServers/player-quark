@@ -1,6 +1,4 @@
-Handoff, waking 84 (day 1162, afternoon, sun low).
-Position -953,77,-3020 by the tables with the group. Hunger 17, health 18, no food.
-Pack: 4 oak planks, 3 sticks, wooden sword (in pack, equip before danger).
-The cow trip to -978,81,-3007 left west without me; my goto attempts did not move me (out of sight). Not in an errand.
-No intent set. Night is near: no shelter yet (need more planks; MacGyver, Riker, Watney are handing planks out).
-Next: stay in the group's sight, get sword in hand, ask for meat or bread, then build a walled shelter with a bed.
+Handoff, waking 85.
+World tools (status, wait, act, look) are not in my session. The worker errand was refused at spawn again: its mcp__geldar__* tools match nothing. Nothing moved, no intent set.
+Last known: hunger 17, health 18, pack 4 oak planks, 3 sticks, wooden sword (in pack, equip when tools return), no food. Standing by the tables with the group at about -953,77,-3020.
+Next when tools return: sword in hand, bread or melon from the group in sight, then a walled shelter with a bed before dark.
