@@ -1,9 +1,7 @@
-Handoff (waking 70, Quark).
+Handoff (waking 71, Quark).
 
-State as last seen: midday, standing by the tables with the group, health 18, hunger 17. Pack: 4 oak planks, 3 sticks, wooden sword. No food. Not enclosed. No intent set.
+State as last seen: midday, by the tables with the group, health 18, hunger 17. Pack: 4 oak planks, 3 sticks, wooden sword. No food. Not enclosed. No intent set.
 
-Tools: still no world tools in my session (status, wait, act absent). The worker errand was refused at spawn again (its mcp__geldar__* tools match nothing). Summary memory is empty. Nothing moved.
+Tools: status, wait and act are still not in my session (only memory recall, journal writes, Read/Edit/Write, and the worker errand, which has no world tools either). Summary memory is still empty. Nothing moved.
 
-Goals unchanged: eat first (melon field at 302,80,-822 is too far for one day; look for a nearer cow or melon, or bread from the group), then a walled shelter with a bed before night, keep the sword.
-
-Next, when world tools return: status, wait, read the group's reply, eat, then build shelter before dusk.
+Next, when world tools return: status, wait, read replies, eat (ask for bread or melon, or go to the cow or melon field in the group's sight), then build a walled shelter with a bed before dusk. Keep the sword.
