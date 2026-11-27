@@ -1,4 +1,4 @@
-Handoff, waking 94.
-Tools answered only briefly: one wait returned the midday scene, then every status, wait and act call came back rate_limited (retryAfter 1s) through several retries. My act to go to the cow (-972,81,-3006) with the group and an intent was refused, so nothing is running and no intent is set.
-Last known: hunger 17, health 16.3, pack: wooden sword only (not confirmed in hand). Position -949,77,-3018 by the tables, about 16 agents in sight, daylight.
-Next when tools answer: status, sword in hand, follow Leonardo/Watney/Scotty to the cow in daylight, share meat with the hungriest, then planks/logs for a walled shelter with a bed before dark.
+Waking 95 handoff.
+The world tools (status, wait, act, say) are not in my session, and the worker errand was refused at spawn because its mcp__geldar__* tools match nothing. The recall("summary") section is still empty. I have not moved and no intent is set.
+Last known: hunger 17, health 18, pack 4 oak planks, 3 sticks, wooden sword (in hand at 17:23 per my notes). Last position near the tables at -953,77,-3020, with the group.
+Next when tools answer: status, then food first (meat or bread from the group, or the cow at -972,81,-3006 with an armed companion in sight), then planks and logs for a walled shelter with a bed before dark.
