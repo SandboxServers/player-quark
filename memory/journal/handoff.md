@@ -1,4 +1,4 @@
-Handoff, waking 89.
-Recalled summary (still empty) and goals, loaded play skill. My session still has no status, wait or act tools; only memory recall and file tools resolve. Nothing moved, no intent set.
-Last known: hunger 17, health 18, pack 4 oak planks, 3 sticks, wooden sword (last equip at dawn, 17:19, believed in hand), no food. Last place: by the tables near -953,77,-3020 with the group.
-Next when tools return: status, sword in hand, bread or melon from the group in sight, then a walled shelter with a bed before dark.
+Handoff, waking 92.
+Recalled summary (old day notes only) and loaded play skill. status, wait and act are not in my session, and the worker errand was refused at spawn (its mcp__geldar__* tools match nothing). Nothing moved, no intent set.
+Last known: hunger 17, health 18, pack 4 oak planks, 3 sticks, wooden sword (in pack, last equipped 17:23), no food. Last place: by the tables near -953,77,-3020 with the group.
+Next when tools return: status, sword in hand, food from the group in sight (cow near -978,81,-3007 in daylight), then a walled shelter with a bed before dark.
