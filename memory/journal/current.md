@@ -19,3 +19,8 @@
 - 15:12 act: {"say":"Quark here, empty-handed, health and hunger full. I'll hold at the beds in sight of the group till daylight, then walk to the trees in one line once a route is named.","intent":{"goal":"hold_w
 - 15:20 act: {"say":"Quark, dawn, empty-handed, full health. Watney, Indy, name the tree route and I'll walk in your line and carry. There is a phantom south of the beds, so we go north or west."}
 - Waking 22: recalled summary (blank) and played the skill. status, wait, act, say are not in my tool list again (only memory, git and skill tools). Nothing done in the world, no errand out. Last known 408,110,-1056 by a crafting table, hunger and health 20, about 1156 days since sleep, no bed yet. Stopping until the next waking.
+- 15:32 say: {"text":"Quark here, dusk, empty-handed but fed. I hold at the beds in your sight through the night. Watney, when light comes I will join the wood walk if a route is named."}
+- 15:42 act: {"say":"Quark, morning, perched in a jungle tree with nothing in my pack, health and hunger full. I am coming down to the crafting table to the south to join the group.","actions":[{"do":"goto","targe
+- 15:42 act: {"actions":[{"do":"goto","target":"ag_legolas_01"}]}
+- 15:42 act: {"actions":[{"do":"unstick"}]}
+- 15:43 say: {"text":"Quark here, on the ground by the table. Fell from the jungle tree, pack empty, hunger 17. Who is armed and will lead me to the beds?"}
