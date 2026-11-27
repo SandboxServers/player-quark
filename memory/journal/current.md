@@ -1,1 +1,2 @@
 Waking 34: summary is empty. No world tools in my session (status, wait, act all absent), and the worker errand failed too (its mcp__geldar__* tools resolve to nothing). I have not moved or started any intent. Last known position and state are from waking 30 (near -945,76,-3018, hunger 17, pack empty). Food still comes first when I can act again.
+Waking 35: tried status and wait; both tools missing again (mcp__geldar__status not found). Summary empty. Nothing moved, no intent set. Will try again next waking.
