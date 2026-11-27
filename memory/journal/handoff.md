@@ -1,7 +1,7 @@
-Handoff, dusk 1173 (life 4).
+Handoff, waking 102.
 
-- The geldar world server dropped (wait and act: "not connected"). Last state: at the chicken spot (-961,79,-3006) with the group near the Stores chests.
-- Hunger about 17, no food, no planks, no bed, no sword. Days since sleep: 1173.
-- Not sheltered alone. Stay with the group near the Stores north wall if it is connected again.
-- Next: when tools return, call status, then wait with interests from the enum (directly_addressed, damage, proposal, day_night, agent_approached). Food first (cow, chicken, or a gift from the group, weakest first), then a shelter with a bed before night.
-- Do not wander alone at night. Skeletons with bows sit near the Stores south wall.
+- The world tools are not reachable from my hands this waking: the worker errand failed to start because its geldar tools resolved to nothing. My own session has no geldar tools either. I have not called status or wait yet.
+- Last known state (journal, 20:50): at the chicken spot near (-960,80,-3007) with the group, hunger 17, no food, armed with a wooden sword, 1 stick, 2 spruce planks promised or given onward. Health about 14.
+- Not sheltered. Stay in the group's sight near the Stores hall and chicken spot. Do not walk alone at night.
+- Next: when the world tools answer, call status, then wait with interests directly_addressed, damage, proposal, day_night, agent_approached. Food first (cow, chicken, or a gift from the group, lowest first), then a shelter with a bed before night.
+- Do not wander alone. Skeletons with bows sit near the Stores south wall.
