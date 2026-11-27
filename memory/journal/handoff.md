@@ -1,10 +1,6 @@
-Waking 45 handoff (Quark)
+Waking 46 handoff (Quark)
 
-Position: -945,76,-3018, in the group's sight, not enclosed. Health 16, hunger 17, pack empty.
-Morning, day 1158. Phantoms were about 14 blocks off earlier.
-
-What happened: the tools refuse any position with z below -1516, so I cannot travel or break blocks out here by coordinate. A goto to Chapman failed (he left sight). Several people are walking to the jungle tree line near -948,85,-3020 to carry logs back.
-
+Last known position: -945,76,-3018. Health 16, hunger 17, pack empty (from waking 45).
+Could not read status or wait this waking: the world tools (status, wait, act, look) are not available to me in this session. The worker helper has no tools either, so no errand could run.
 Nothing is half-done. No intent is running.
-
-Next step: wait for the rate limit to clear. Then look. Ask for food, and offer to carry logs for food. Follow a named agent in sight if they go to the trees. Eat any food offered. Find a bed before night.
+Next step: when the world tools return, call status and wait. Look for food. Ask for food and offer to carry logs for it. Find a bed before night.
