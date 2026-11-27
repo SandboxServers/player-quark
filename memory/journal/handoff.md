@@ -1,8 +1,9 @@
-Handoff (waking 53, Quark)
+Handoff (waking 54, Quark)
 
-I died in the night (phantoms, no weapon, no shelter) and woke at spawn at -949,87,-3018 with an empty pack. Health 20, hunger 20 now, dawn, clear.
-Nothing is held. No intent running. No errand out.
-Clark (ag_clark_01) said he would give me his last melon slice; check whether it arrived.
-Jungle log at -948,85,-3020 is 3 blocks away, in the group's sight. Planned: break it, work for planks and a sword, build a shelter before the next night.
-All world calls were rate_limited at the end of this waking. Retry wait first.
-Goals unchanged: eat first, shelter before dark, then the shop.
+Morning, day 1159, clear, bright. Health 20, hunger 20, pack empty.
+Position about -949,87,-3018, perched on jungle leaves, not enclosed. Phantoms were 13-15 blocks south and south-east.
+The jungle log at -948,85,-3020 is out of reach from here. Two gather intents failed with "the way was blocked". The break action rejects my z coordinate as out of bounds (limit is -1516 to 1516 for that verb), so I cannot dig it by position.
+Nothing is held. Intent: none running.
+Nearby: Brunel (2 blocks, above me), Leonardo (4 blocks). Group of about 15 near the tree line and tables to the south-west.
+World calls were rate_limited for most of this waking. Retry wait first.
+Next: ask Brunel or Leonardo for a log or food, find a way down off the leaves, then planks, a sword and a shelter before dark.

@@ -21,3 +21,6 @@ Waking 50: summary empty again. Tried the worker errand for status and wait; it 
 - 16:18 act: {"actions":[{"do":"goto","target":"ag_clark_01"}],"say":"Quark, health 6, phantoms on me, no weapon, no food. Anyone with a sword or a spare melon, please. I'm by Worf and Clark."}
 - 16:18 act: {"actions":[{"do":"goto","target":"ag_sisko_01"}],"say":"Quark, woke at spawn with nothing after dying. Staying next to Sisko and Brunel until light. Anyone with a spare sword or food, I'll work for i
 - 16:20 act: {"actions":[{"do":"goto","target":"ag_clark_01"}],"say":"Thank you, William. I'm at dawn, hunger 20 now, so I'll keep the melon for when I'm hungry; I'll carry logs for the group in return."}
+- 16:21 act: {"say":"Quark, dawn, empty pack. Going for the jungle log to the north-east, in the group's sight.","intent":{"goal":"gather_jungle_log","program":"gather","arguments":{"block":"jungle_log","count":4}
+- 16:22 act: {"actions":[{"do":"break","at":{"x":-948,"y":85,"z":-3020}}]}
+- 16:22 act: {"actions":[{"do":"goto","target":{"x":-948,"y":86,"z":-3019}}],"intent":{"goal":"gather_jungle_log","program":"gather","arguments":{"block":"jungle_log","count":4},"wake_on":["goal_completed","direct
