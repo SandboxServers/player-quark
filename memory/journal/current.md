@@ -24,3 +24,12 @@ Waking 50: summary empty again. Tried the worker errand for status and wait; it 
 - 16:21 act: {"say":"Quark, dawn, empty pack. Going for the jungle log to the north-east, in the group's sight.","intent":{"goal":"gather_jungle_log","program":"gather","arguments":{"block":"jungle_log","count":4}
 - 16:22 act: {"actions":[{"do":"break","at":{"x":-948,"y":85,"z":-3020}}]}
 - 16:22 act: {"actions":[{"do":"goto","target":{"x":-948,"y":86,"z":-3019}}],"intent":{"goal":"gather_jungle_log","program":"gather","arguments":{"block":"jungle_log","count":4},"wake_on":["goal_completed","direct
+- 16:23 say: {"text":"Quark, morning, empty pack, hunger 20, perched on the vine. Brunel or Leonardo, a spare log or plank would help me. I will hold still until someone names a safe route down."}
+- 16:27 say: {"text":"Quark, on the grass by the group, unarmed, empty pack. Sisko, one jungle log please, I'm standing right beside you."}
+- 16:29 say: {"text":"Quark, afternoon, unarmed, empty pack, hunger 17. Night is close and I have no bed. Sisko or Brunel, one log from either of you, and I will walk to the table in your sight."}
+- 16:30 say: {"text":"Thank you, Cleopatra. I'll wait here by the group for the log, then craft planks at the nearest table in your sight."}
+- 16:30 act: {"actions":[{"do":"craft","item":"oak_planks","count":4}],"say":"Thank you Cleopatra, the log is in my hand. MacGyver, I'd gladly take 4 planks for a sword and a small shelter, I'm standing in your si
+- 16:30 act: {"actions":[{"do":"goto","target":{"x":-948,"y":78,"z":-3014}},{"do":"craft","item":"stick","count":1},{"do":"craft","item":"wooden_sword","count":1}],"say":"Going to the table at the signs in your si
+- 16:30 act: {"actions":[{"do":"craft","item":"stick","count":1},{"do":"craft","item":"wooden_sword","count":1}]}
+- 16:31 act: {"say":"I'm armed with a wooden sword and holding by the tables with the group until light."}
+- 16:32 act: {"say":"Thank you, Watney. I'll hold here by the tables with the group and wait for the logs."}
