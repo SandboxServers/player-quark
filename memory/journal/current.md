@@ -67,3 +67,4 @@ Waking 82: summary still empty. Status, wait and act are not in my tools, and th
 - 17:11 act: {"say":"Quark, dusk, sword in pack, hunger 17, 4 planks. I'm holding at the tables in your sight for the night. Whoever brings back meat, I'll take my share.","actions":[{"do":"wait","seconds":1}]}
 - 17:12 act: {"actions":[{"do":"use","item":"wooden_sword"}],"say":"Quark, night, sword to hand, hunger 17, 4 planks. Holding at the tables in your sight. Meat or bread to the hungriest first, please.","intent":{"
 - 17:19 act: {"actions":[{"do":"goto","target":{"x":-953,"y":77,"z":-3020}},{"do":"use","item":"wooden_sword"}],"say":"Quark, dawn, sword in hand. Picking up my dropped planks and sticks at the tables, in the grou
+- 17:23 act: {"actions":[{"do":"use","item":"wooden_sword"}],"say":"Quark here, hunger 17, no food. Anyone with spare food, hand it to me here in sight. I'm armed now and will go to the cow with the group in dayli
