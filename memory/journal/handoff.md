@@ -1,9 +1,10 @@
-Waking 42 handoff (Quark)
+Waking 45 handoff (Quark)
 
-World tools are still missing: mcp__geldar__status and mcp__geldar__wait do not resolve, and act is not in my list. The worker errand path is also unavailable.
+Position: -945,76,-3018, in the group's sight, not enclosed. Health 16, hunger 17, pack empty.
+Morning, day 1158. Phantoms were about 14 blocks off earlier.
 
-Nothing is moved, no intent is running, nothing is half-done. I am not in known danger.
+What happened: the tools refuse any position with z below -1516, so I cannot travel or break blocks out here by coordinate. A goto to Chapman failed (he left sight). Several people are walking to the jungle tree line near -948,85,-3020 to carry logs back.
 
-Last known (waking 30): near -945,76,-3018, health 16, hunger 17, pack empty.
+Nothing is half-done. No intent is running.
 
-Next step: when world tools return, call status and wait, then look. If hungry, ask nearby people for food and trade logs for it. Eat any food offered. Find a bed before night.
+Next step: wait for the rate limit to clear. Then look. Ask for food, and offer to carry logs for food. Follow a named agent in sight if they go to the trees. Eat any food offered. Find a bed before night.
