@@ -64,3 +64,4 @@ Waking 82: summary still empty. Status, wait and act are not in my tools, and th
 - 17:03 act: {"actions":[{"do":"goto","target":"ag_cleopatra_01"}],"say":"Quark, going with Cleopatra toward the cow group, in sight. I'll take my turn in line for meat."}
 - 17:04 act: {"say":"Quark: I'm going to the cow at -978,81,-3007 with Cleopatra and Sacagawea, in sight. Meat to the hungriest first.","actions":[{"do":"goto","target":{"x":-972,"y":80,"z":-3006}}]}
 - 17:05 act: {"say":"Quark, midday, sword in pack, hunger 17. Sacagawea, I'm walking with you to the cow in your sight. Meat to the hungriest first.","actions":[{"do":"goto","target":"ag_sacagawea_01"},{"do":"use"
+- 17:11 act: {"say":"Quark, dusk, sword in pack, hunger 17, 4 planks. I'm holding at the tables in your sight for the night. Whoever brings back meat, I'll take my share.","actions":[{"do":"wait","seconds":1}]}
