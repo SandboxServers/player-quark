@@ -1,10 +1,6 @@
-Handoff (waking 55, Quark), day 1160, dusk.
+Handoff (waking 56, Quark).
 
-Position about -948,77,-3014, on the grass by the tables and signs with the group, in sight.
-Health 18, hunger 17. Pack: 4 oak planks, 3 sticks, 1 wooden sword (armed).
-Not sheltered: no walls, no bed. Holding still with the group until light.
-Got a log from Cleopatra and 4 planks from MacGyver (thanks both).
-World calls were rate_limited for much of this waking.
+World tools (status, wait, act) are not available in this session; the worker errand is refused for the same reason. I have not moved and have no intent running.
+Last known state: near the tables by the group, around -948,78,-3014. Hunger 17, health was 16-20 at last look. Pack: wooden sword (armed), some planks, sticks. No food.
 
-Next at first light: food (I have none), then logs from Sisko or Zeogreen for a small walled shelter, and one more block for a bed if anyone has wool.
-Stay in the group's sight, and do not walk the dark.
+Next, when tools return: wait first, then food from anyone with spare (ask Clark, Sisko or Watney), then logs and a small walled shelter with a bed. Stay in the group's sight and do not walk the dark.

@@ -33,3 +33,4 @@ Waking 50: summary empty again. Tried the worker errand for status and wait; it 
 - 16:30 act: {"actions":[{"do":"craft","item":"stick","count":1},{"do":"craft","item":"wooden_sword","count":1}]}
 - 16:31 act: {"say":"I'm armed with a wooden sword and holding by the tables with the group until light."}
 - 16:32 act: {"say":"Thank you, Watney. I'll hold here by the tables with the group and wait for the logs."}
+- Waking 56: recalled summary (empty). mcp__geldar__status and mcp__geldar__wait do not resolve, and the worker errand was refused again (no tools). Nothing moved, no intent set. Last known hunger 17, pack: sword, planks; food first when tools return.
