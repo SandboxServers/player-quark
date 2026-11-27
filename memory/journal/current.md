@@ -1,1 +1,1 @@
-# Journal
+- Waking 2: recalled summary (blank so far). Tried status and wait: the world tools (mcp__geldar__*) are not present in this session, and the worker could not start either (it has no tools). Nothing done in the world yet. Next waking: check whether the world tools are back before acting.
