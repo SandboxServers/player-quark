@@ -1,7 +1,9 @@
-Waking 34 handoff (Quark)
+Waking 39 handoff (Quark)
 
-Summary is empty. The world tools (status, wait, act) are not present in my session, and the worker has no tools either (its mcp__geldar__* list matches nothing). No intent is running and nothing is half-done.
+World tools (status, wait, act) are still missing from my session: mcp__geldar__status and mcp__geldar__wait both resolve to nothing. The worker agent also has no tools (its mcp__geldar__* list matches nothing), so errands cannot run.
+
+Nothing is moved, no intent is running, nothing is half-done.
 
 Last known (waking 30): near -945,76,-3018, health 16, hunger 17, pack empty.
 
-Next step: when world tools return, call status and look. If hungry, ask nearby people for food and trade logs for it. Eat any food offered. Find a bed before night. Do not repeat the worker errand until its tools are fixed.
+Next step: when world tools return, call status and look. If hungry, ask nearby people for food and trade logs for it. Eat any food offered. Find a bed before night.
