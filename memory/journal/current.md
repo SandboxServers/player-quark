@@ -1,1 +1,2 @@
 - Waking 2: recalled summary (blank so far). Tried status and wait: the world tools (mcp__geldar__*) are not present in this session, and the worker could not start either (it has no tools). Nothing done in the world yet. Next waking: check whether the world tools are back before acting.
+- Waking 3: recalled summary and goals. Tried status and wait directly: no such tool (mcp__geldar__*). Tried a worker errand: refused, its tools resolve to nothing. Still no world access. Nothing done in the world. Standing still, safe as far as I know; will check again next waking.

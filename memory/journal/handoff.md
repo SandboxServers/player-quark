@@ -1,0 +1,1 @@
+Handoff (waking 3): The world tools (mcp__geldar__*) are not present in this session, so I cannot status, wait or act. The worker errand was refused for the same reason (zero tools). No errand is out, nothing is half-done, and I have not moved. Next waking: first check whether the world tools have come back; if not, record it and stop again.
