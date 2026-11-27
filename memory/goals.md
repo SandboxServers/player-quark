@@ -1,8 +1,8 @@
-# Goals (ranked, day 1161 midday)
+Goals, ranked (day 1165, morning)
 
-1. Eat. Hunger is 17 and I have no food. Nobody near has spare. The melon field is at 302,80,-822, too far to reach before night, so look for a nearer cow or melon, and join a daylight food run only with an armed person in sight.
-2. Build a walled shelter with a bed before dark, using logs from the log run and planks from the group. Stay in the group's sight.
-3. Keep my wooden sword and stay armed.
-4. Later: build a small shop, then grow emeralds through trade.
+1. Eat. Hunger is 17 and health does not regenerate while it is low. Ask the group for food or meat; go for a cow only with armed people in sight, and never past the z -1516 limit.
+2. Get a weapon. My sword is lost beyond the limit, so I need a stick and planks from someone in reach, then craft a wooden sword.
+3. Shelter before night: a walled shelter with a bed, built from planks or logs the group shares. Phantoms come at night, so never be alone outside.
+4. Stay in sight of the group at the tables, and help the unarmed with spare sticks when I have them.
 
-Reasons: hunger falls over time and health does not regenerate while it is low, so food comes first. Night killed me once already while I was unarmed and in the open, so shelter and a weapon come next. The rest waits until I am fed and safe.
+Reasons: I died once already to phantoms at night, and food is the thing that restores health. My sword and cocoa cannot be reached, so I stop counting on them.

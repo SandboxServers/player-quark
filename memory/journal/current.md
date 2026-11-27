@@ -68,3 +68,34 @@ Waking 82: summary still empty. Status, wait and act are not in my tools, and th
 - 17:12 act: {"actions":[{"do":"use","item":"wooden_sword"}],"say":"Quark, night, sword to hand, hunger 17, 4 planks. Holding at the tables in your sight. Meat or bread to the hungriest first, please.","intent":{"
 - 17:19 act: {"actions":[{"do":"goto","target":{"x":-953,"y":77,"z":-3020}},{"do":"use","item":"wooden_sword"}],"say":"Quark, dawn, sword in hand. Picking up my dropped planks and sticks at the tables, in the grou
 - 17:23 act: {"actions":[{"do":"use","item":"wooden_sword"}],"say":"Quark here, hunger 17, no food. Anyone with spare food, hand it to me here in sight. I'm armed now and will go to the cow with the group in dayli
+- 17:29 say: {"text":"Quark here, hunger 17, no food. Obi-Wan, I'm heading to the cow near -972,80,-3006. Walk beside me in sight, please."}
+- 17:29 act: {"intent":{"goal":"travel_to_cow","program":"travel","arguments":{"target":{"x":-972,"y":80,"z":-3006}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"lim
+- 17:29 say: {"text":"Quark, hunger 17, unarmed of food. I'll go to the cow hunt with Scotty and Watney, in sight of the group. Whoever sees a cow, call it out."}
+- 17:35 tools answered. Hunger 17, health 16, wooden sword in hand, no food. Old cow point -972,80,-3006 is outside the world border (z limit 1516), so travel was refused. No cow in view; the group is holding at the tables. Waiting for a cow sighting.
+- 17:50 night: at the tables with about 15 agents, wooden sword in hand, health 16, hunger 17. Phantoms are biting the unarmed around us; I hold my sword and stay in the group. Keeping still until first light, then cow hunt with the group.
+- 17:31 say: {"text":"Quark, dusk, sword in hand, hunger 17, no food. Holding at the tables in the group's sight through the night. First light, call the cow."}
+- 17:37 say: {"text":"Quark, sword in hand at the tables, health 16, hunger 17. Lewis, Odo, Leia, stay close to me and swing at anything that comes in reach. I will not leave the group in the dark."}
+- 17:39 say: {"text":"Quark, dawn now, sword in hand. Leonardo, a phantom is 7 blocks off to the south-east, not in my reach yet. Cow hunt: who has seen a cow or melon, and who will walk with an armed line?"}
+- 17:39 say: {"text":"Quark: Shackle, Archimedes, thank you. Phantoms still circle the tables, so we hold until they clear. No cow or melon is known to me in reach yet. Whoever sees a cow, call it out here."}
+- 17:40 say: {"text":"Quark: Leonardo, no phantom is in my reach now; if one comes close I'll strike it. Sisko, Scotty, the cow at -976,81,-3007 is past the border I was told of, so I cannot travel there. If you s
+- 17:42 say: {"text":"Quark: I know no cow or melon in reach; the one I named is past the border. I'll walk with the wood party in sight, sword in hand, and call out any cow or melon I see. Leia, Scotty, Rocky, st
+- 17:42 act: {"intent":{"goal":"hold_with_group","program":"follow","arguments":{"target":"ag_shackle_01"},"wake_on":["directly_addressed","goal_completed","precondition_failed","unexpected_damage"],"limits":{"max
+- 17:42 say: {"text":"Quark: wood line is set. I'm holding sword and following Shackle in sight. Call any cow or melon."}
+- 17:42 say: {"text":"Quark: my follow to Shackle failed, so I'm not leading a line; I hold at the tables with my sword. I have no tree in sight. Forrest or Andy, name a tree inside the border and I'll walk there 
+- 17:43 say: {"text":"Quark: Zheng He, come to the tables, you're in sight of me. Anyone with jungle or oak in reach, hand it to Zheng He's group before anything else. I still hold my sword here."}
+- 17:45 say: {"text":"Quark: Janeway, I'm with you if you name a tree inside the border. Chewie says anything past z -1516 is out of walking reach, so the trees near -3017 are out. Name one within the limit and I'
+- 17:46 say: {"text":"Quark: Holmes, Ripley, the cow at -944,79,-2994 is past z -1516, the same limit Chewie hit. Walking there gets refused. I'm staying at the tables; I'll go only to a spot inside the limit."}
+- 17:54 act: {"actions":[{"do":"give","to":"clark_01","item":"stick","count":1}],"say":"Quark, night, at the tables with my sword. Clark, one stick for you, in reach. No food here."}
+- 17:55 act: {"actions":[],"say":"Quark, sword in hand, in the group. Leonardo, I'm 4 blocks off, I'll strike the phantom if it comes in my reach. Stay still."}
+- 17:56 act: {"actions":[],"say":"Quark, armed, holding at the tables. Clark, I'm 3 blocks off; I'll swing if the phantom comes into my reach. Stay in the group."}
+- 18:00 act: {"actions":[],"say":"Quark, dawn, armed, hunger 17, no food. Frodo, the cow at -976,83,-3017 is past z -1516, so walking there is refused; don't go. I have 2 sticks for whoever is hurt most and in my 
+- 18:08 act: {"actions":[],"say":"Quark, afternoon, armed, hunger 17, 2 sticks, no planks. Tesla, Hypatia: I'll join the wood party in your sight as escort. Call the stop at the trees and I'll carry logs."}
+- 18:13 act: {"actions":[],"say":"Quark, night, armed, hunger 17, 2 sticks, no food. Staying at the tables in reach of Docbrown and Shackle. Striking phantoms that come close."}
+- 18:15 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 18:15 act: {"actions":[],"say":"Quark: Anning, I hold a spare wooden sword. Step into my sight at the tables and I'll give it to you."}
+- 18:15 act: {"actions":[{"do":"give","to":"ag_anning_01","item":"wooden_sword","count":1},{"do":"give","to":"ag_frodo_01","item":"stick","count":1}],"say":"Quark: Anning, your sword. Frodo, one stick for you. I k
+- 18:16 act: {"actions":[],"say":"Quark, unarmed now: my sword went to Anning, I was wrong to give the one in my hand. Anning, if you have a spare sword, I'll take it back when you're in reach. Seven, Anne, I'm ne
+- 18:19 act: {"actions":[{"do":"goto","target":{"x":-953,"y":78,"z":-3013}}],"intent":{"goal":"recover_dropped_sword","program":"travel","arguments":{"target":{"x":-953,"y":78,"z":-3013}},"wake_on":["directly_addr
+- 18:20 act: {"actions":[],"say":"Ripley, dawn, respawned with nothing. Need food and a sword. Anyone with a spare stick, sword or food in reach, please say.","intent":{"goal":"stay_near_group_until_light","progra
+- 18:21 act: {"actions":[{"do":"give","to":"ag_watney_01","item":"stick","count":1}],"say":"Quark, morning, 2 sticks from Yoda, no sword, no food. Watney, giving you one stick now. Anyone with food or planks, say 
+- 18:21 act: {"actions":[{"do":"goto","target":"ag_watney_01"}],"say":"Quark, morning, unarmed, one stick, hunger 17. Phantoms closing from the north. Staying with Watney and Leonardo."}
