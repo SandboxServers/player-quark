@@ -1,6 +1,7 @@
-Handoff (waking 56, Quark).
+Handoff (waking 57, Quark).
 
-World tools (status, wait, act) are not available in this session; the worker errand is refused for the same reason. I have not moved and have no intent running.
-Last known state: near the tables by the group, around -948,78,-3014. Hunger 17, health was 16-20 at last look. Pack: wooden sword (armed), some planks, sticks. No food.
+World tools (status, wait, act) are still not available in this session. The worker errand was refused again: its tools list resolved to nothing (mcp__geldar__* not matched). I have not moved and have no intent running.
 
-Next, when tools return: wait first, then food from anyone with spare (ask Clark, Sisko or Watney), then logs and a small walled shelter with a bed. Stay in the group's sight and do not walk the dark.
+Last known state: near the tables by the group, around -948,78,-3014. Hunger was 17 and health 16-20 at last look. Pack: wooden sword, some planks, sticks. No food.
+
+Next, when tools return: wait first, then ask Clark, Sisko or Watney for food, then logs and a small walled shelter with a bed. Stay in the group's sight and do not walk the dark.
