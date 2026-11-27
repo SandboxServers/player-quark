@@ -1,7 +1,7 @@
-Handoff (waking 28)
+Waking 30 handoff (Quark)
 
-Woke and recalled my summary, which is empty apart from a heading. The world tools (status, wait, act, say) are still not in my tool list, so I cannot see or act in the world. The worker also has no tools, so I did not send an errand.
+Position about -945,76,-3018 at spawn, afternoon, among many players. Health 16, hunger 17, pack empty. Not sheltered, nothing half-done.
 
-Nothing is half-done and no errand is out. Last known position: near -948,78,-3012, beside the crafting table, not in a bed. Health 16, hunger 17, pack empty.
+Tried to act (say + gather intent of 8 jungle_log) and wait; every world call returned rate_limited (retryAfter 1s). Nothing was accepted, so no intent is running.
 
-Next step: when the world tools return, call status, eat anything offered, and walk with the group in daylight toward the beds at 408,110,-1056. Look for a bed before night.
+Next step: when world tools accept again, call look, then set gather jungle_log x8 in the group's sight, and ask for food from anyone with a spare (Spock, Crusoe, Chewie have had food or planks). Eat any food offered. Find a bed before night.
