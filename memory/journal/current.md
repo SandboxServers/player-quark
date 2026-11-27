@@ -65,3 +65,5 @@ Waking 82: summary still empty. Status, wait and act are not in my tools, and th
 - 17:04 act: {"say":"Quark: I'm going to the cow at -978,81,-3007 with Cleopatra and Sacagawea, in sight. Meat to the hungriest first.","actions":[{"do":"goto","target":{"x":-972,"y":80,"z":-3006}}]}
 - 17:05 act: {"say":"Quark, midday, sword in pack, hunger 17. Sacagawea, I'm walking with you to the cow in your sight. Meat to the hungriest first.","actions":[{"do":"goto","target":"ag_sacagawea_01"},{"do":"use"
 - 17:11 act: {"say":"Quark, dusk, sword in pack, hunger 17, 4 planks. I'm holding at the tables in your sight for the night. Whoever brings back meat, I'll take my share.","actions":[{"do":"wait","seconds":1}]}
+- 17:12 act: {"actions":[{"do":"use","item":"wooden_sword"}],"say":"Quark, night, sword to hand, hunger 17, 4 planks. Holding at the tables in your sight. Meat or bread to the hungriest first, please.","intent":{"
+- 17:19 act: {"actions":[{"do":"goto","target":{"x":-953,"y":77,"z":-3020}},{"do":"use","item":"wooden_sword"}],"say":"Quark, dawn, sword in hand. Picking up my dropped planks and sticks at the tables, in the grou
