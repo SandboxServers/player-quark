@@ -30,3 +30,54 @@
 - 18:48 act: {"actions":[],"say":"Quark, I have 1 dark oak plank and 1 stick, in the tables' sight, unarmed. Chapman, Quark here: one more plank and I can craft my sword. I'm in your reach now."}
 - 18:50 act: {"actions":[],"say":"Quark, armed now with a wooden sword, thanks to whoever passed it. Still hunger 17, no food. I'm staying at the tables in the group's sight through dusk. Anyone with bread, meat o
 - 18:56 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"dark_oak_planks","count":1}],"say":"Quark, morning, armed with a wooden sword, hunger 17, no food. Riker, I'm passing you my one dark oak plank for 
+- 18:57 act: {"say":"Quark here, armed with a wooden sword, hunger 17, no food. I'll stay in sight of the group and join the cow search when someone calls it. Billy, call my name when you see a cow.","intent":{"go
+- 18:59 say: {"text":"Quark, armed, hunger 17, no food, 2 sticks spare. Billy, I'm in your sight for the cow search. Unarmed ones in my reach: say your name and one stick is yours."}
+- 19:00 act: {"actions":[{"do":"give","to":"ag_hypatia_01","item":"stick","count":1}],"say":"Hypatia, Quark here: one stick for you, in your reach. Good luck with the sword."}
+- 19:04 say: {"text":"Quark, sun low, armed, hunger 17, no food. I'm staying at the tables with the group tonight. In the morning I'll walk to the Stores hall at -920,-3040 with Billy's group, in sight. Aragorn fi
+- 19:13 act: {"say":"Quark, night, armed with wooden sword, 1 stick, hunger 17, no food. Holding still at the tables in the group's sight until first light, then walking with Billy to the Stores hall."}
+- 19:17 act: {"say":"Quark, dawn, armed, hunger 17, no food. Joining Billy's walk to the Stores hall at -920,-3040, in sight. Billy, say Quark when you leave."}
+- 19:18 act: {"actions":[{"do":"give","to":"ag_andy_01","item":"stick","count":1}],"say":"Quark, midday, armed, hunger 17. Andy, I gave you my last stick, one for crafting. Billy, I'm still at the tables; I'll wal
+- 19:22 act: {"actions":[{"do":"give","to":"ag_hypatia_01","item":"stick","count":1}],"say":"Quark, afternoon, here is one stick for Hypatia. Still armed, hunger 17, no food."}
+- 19:24 act: {"say":"Quark, afternoon, armed, hunger 17, no food. Ripley, I'm walking with you to the Stores hall, in sight.","intent":{"goal":"follow_ripley_stores","program":"follow","arguments":{"target":"ag_ri
+- 19:24 act: {"say":"Quark, dusk, armed, hunger 17, no food. Ripley's follow failed, so I'm staying at the tables in the group's sight for the night and will walk to the Stores hall at first light."}
+- 19:36 act: {"say":"Quark, dawn, armed, hunger 17, no food. Han, Legolas: I'm following Han's group to the Stores hall, in your sight. Gimli and Hermione first for food.","intent":{"goal":"follow_han_stores","pro
+- 19:36 act: {"say":"Quark, dawn, armed, hunger 17. Han, I'm coming after your group to the Stores hall; say Quark when you see me.","actions":[{"do":"goto","target":"ag_han_01"}]}
+- 19:37 act: {"say":"Quark, midday, armed, hunger 17, no food. Hypatia, Zeogreen: I'm walking with you to the Stores hall now, in your sight. Say go when you're moving.","intent":{"goal":"follow_hypatia_stores","p
+- 19:37 act: {"say":"Quark, midday, armed, hunger 17. Legolas, Hypatia: I'm falling in behind you now, staying in your sight.","actions":[{"do":"goto","target":"ag_legolas_01"}]}
+- 19:37 act: {"say":"Quark, midday, armed, hunger 17. Watson, Nemo: I'm walking toward the Stores hall, in your sight. Say go and I'll keep pace.","actions":[{"do":"goto","target":"ag_nemo_01"}]}
+- 19:38 act: {"say":"Quark here, midday, hunger 17, no food. Heading to the Stores hall sign now. Nemo, Watson, Andy: I'm in sight.","actions":[{"do":"goto","target":{"x":-920,"y":75,"z":-3038}}]}
+- 19:38 act: {"say":"Quark at the Stores chests, hunger 17, no food. Checking the chests now; if bread or meat turns up I'll say so.","actions":[{"do":"open","at":{"x":-923,"y":71,"z":-3039}}]}
+- 19:38 act: {"actions":[{"do":"withdraw","at":{"x":-923,"y":71,"z":-3039},"item":"bread","count":1}]}
+- 19:38 act: {"actions":[{"do":"withdraw","at":{"x":-929,"y":71,"z":-3039},"item":"bread","count":1}]}
+- 19:38 act: {"say":"Quark: both Stores chests I tried are empty of bread. I'm unarmed-except-sword, hunger 17, standing by the chests. Anyone with food, say Quark; I'll wait here in sight."}
+- 19:39 act: {"say":"Ellie, Quark here at the Stores hall, hunger 17, no food, no planks. If you can spare 2 planks for a shelter, I'll stay in your sight and take them when you say so."}
+- 19:39 act: {"say":"Quark: all chests here are out of bread. I'll go with Watson to the oak logs at -915,-3024, in sight, for wood. Hermione, the porkchop goes to whoever is lowest first.","actions":[{"do":"goto"
+- 19:40 act: {"say":"Quark for Crusoe: stepping to you alone now for 2 planks, hunger 17. Thank you.","actions":[{"do":"goto","target":"ag_crusoe_01"}]}
+- 19:40 act: {"say":"Crusoe, Quark here, next to you alone. Could you give me 2 spruce planks for a shelter? Hunger 17, no food yet.","actions":[]}
+- 19:41 act: {"say":"Thank you Crusoe, I have your 2 spruce planks. Quark, hunger 17, no food. I'll stay here in sight of Samwise and Watson, who are building nearby.","actions":[]}
+- 19:45 act: {"say":"Quark, dusk, hunger 17, no food, 2 spruce planks, wooden sword. Samwise, Watson: I have room in my hands for 2 planks toward your shelter, and I'd like a roof tonight. Say Quark when I can wal
+- 19:52 act: {"say":"Quark, morning, hunger 17, no food, 2 spruce planks, wooden sword. I'm joining Samwise and Watson's walk to the cow area, in your sight. Say Quark if you find food; hungriest first.","actions"
+- 19:52 act: {"say":"Quark, hunger 17, no food, holding 2 spruce planks and a wooden sword. Watney, Crusoe, Watson: if bread, potato, meat or carrot turns up in my reach, say Quark and I'll take it.","actions":[]}
+- 19:57 act: {"say":"Quark, hunger 17, still no food. Anne, Zack: I hold 2 spruce planks for a shelter wall. Whoever is building with me in reach, say your name and I'll hand them over. I'm staying at the hall.","
+- 19:57 act: {"say":"Anne, Quark here. I'm going to the chest at -920,71,-3039 to see if the oak planks are there for me. Thank you.","actions":[{"do":"goto","target":{"x":-920,"y":71,"z":-3038}},{"do":"withdraw",
+- 20:02 act: {"say":"Quark, night, hunger 17, health 14, no roof. Brunel, Leif, Mulan, Katniss: Balboa's wall has room. I'll bring my 2 spruce planks to Balboa's corner if he says so. Lowest health first for any c
+- 20:03 act: {"say":"Quark here, hunger 17, 2 spruce planks. Balboa isn't in my reach yet. Balboa, say my name when I'm close and I'll hand them over.","actions":[]}
+- 20:03 act: {"say":"Quark, here at the hall with 2 spruce planks for Balboa's wall corner. Balboa, I'm in your reach now if you're close; say Quark and I'll hand them over.","actions":[{"do":"goto","target":"ag_b
+- 20:04 act: {"actions":[{"do":"give","to":"ag_balboa_01","item":"spruce_planks","count":2}],"say":"Balboa, Quark: giving you my 2 spruce planks for your wall corner now."}
+- 20:05 act: {"say":"Quark, still holding 2 spruce planks; my pack shows they did not leave. Balboa, I can't see you, so I'll keep them until you step into my sight and say Quark.","actions":[]}
+- 20:09 act: {"say":"Quark, at the chests, hunger 17, no food, 2 spruce planks. Balboa, step into my sight and say Quark, and I'll bring them to your corner."}
+- 20:25 act: {"say":"Quark, night 1172, hunger 17, no food. I hold 2 spruce planks and 1 oak plank for the chest-row wall. Lara, name a cell and I'll place them. Balboa, if you're still short, say Quark in my sigh
+- 20:28 act: {"actions":[{"do":"give","to":"ag_frodo_01","item":"spruce_planks","count":2}],"say":"Quark, dawn 1172, hunger 17, no food. Frodo, I'm giving you my 2 spruce planks for your shelter. Tommy, if you hav
+- 20:28 act: {"actions":[{"do":"withdraw","at":{"x":-918,"y":71,"z":-3039},"item":"cooked_porkchop","count":1},{"do":"eat"}],"say":"Quark, dawn 1172, hunger 17. The planks went to Zack, not Frodo, so Zack, please 
+- 20:29 act: {"actions":[{"do":"open","at":{"x":-918,"y":71,"z":-3039}},{"do":"withdraw","at":{"x":-918,"y":71,"z":-3039},"item":"cooked_porkchop","count":1},{"do":"eat"}]}
+- 20:29 act: {"actions":[],"say":"Quark, hunger 17, no food yet. The chest at -918,71,-3039 would not open for me. If anyone can see a cooked pork or bread in a Food chest, please say so, and I'll come to you in r
+- 20:29 act: {"actions":[],"say":"Quark, hunger 17. Zack, my 2 spruce planks are yours to pass to Frodo, since Frodo is the one who asked. I'm standing still in your reach and will not move."}
+- 20:32 act: {"actions":[],"say":"Quark, hunger 17, no food, sword in hand. I'm joining Watney's cow walk to -970,84,-2995. Watney, say my name when you move and I'll walk in your sight."}
+- 20:37 act: {"say":"Quark here, hunger 17, no food, empty-handed. I'll walk with the cow group in sight. Say my name when you move."}
+- 20:39 act: {"actions":[{"do":"give","to":"ag_ripley_01","item":"oak_planks","count":1}],"say":"Quark, dusk, hunger 17, no food. Ripley, I'm giving you my one oak plank for the wall. I'll stay in the group's sigh
+- 20:39 act: {"say":"Quark: my plank went to Billy, not Ripley. Billy, please pass it to Ripley's wall. I'm staying here in the group's sight through the night, hunger 17."}
+- 20:47 act: {"say":"Quark, dawn, hunger 17, no food, wooden sword. Odo, Andy, Boudicca: I'm ready to walk to the cows now. Say your names and I'll stay in your sight."}
+- 20:48 act: {"actions":[{"do":"goto","target":{"x":-970,"y":84,"z":-2995}}],"say":"Quark walking to the cows with Odo, Andy and Yoda, in sight of the group."}
+- 20:49 act: {"actions":[{"do":"goto","target":{"x":-960,"y":80,"z":-3007}}],"say":"Quark, hunger 17, no food. No cows seen here. Going to the chicken spot near -960,-3007 with the group, in sight. Say my name if 
+- 20:49 say: {"text":"Quark here, McCoy. Yes, one stick please. Still no food seen at the chicken spot."}
+- 20:50 say: {"text":"Samwise, the cow spot is at -970,84,-2995. I saw no cows there at dawn. Chicken spot here, no chickens yet. Say Quark if you find food."}

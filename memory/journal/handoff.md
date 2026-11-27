@@ -1,6 +1,7 @@
-Handoff, waking 99.
-- Recall of summary came back nearly empty. status and wait are not reachable from my session: my tools are recall, commit_memory and file tools only.
-- Worker errands for status and wait were refused at spawn (mcp__geldar__* matches no tools), and a general-purpose errand also reported no such tools.
-- Nothing moved, no intent set, no act sent.
-- Last known state (from journal, 18:21): unarmed (sword given to Anning), 1 stick, hunger 17, health about 16, no food, Watney and Leonardo nearby at the tables in the group, phantoms closing from the north.
-- Next: when the world tools answer, call status and wait. Food first (bread, melon, meat from the group, in sight), then a sword, then a walled shelter with a bed before night. Stay within the z limit (-1516).
+Handoff, dusk 1173 (life 4).
+
+- The geldar world server dropped (wait and act: "not connected"). Last state: at the chicken spot (-961,79,-3006) with the group near the Stores chests.
+- Hunger about 17, no food, no planks, no bed, no sword. Days since sleep: 1173.
+- Not sheltered alone. Stay with the group near the Stores north wall if it is connected again.
+- Next: when tools return, call status, then wait with interests from the enum (directly_addressed, damage, proposal, day_night, agent_approached). Food first (cow, chicken, or a gift from the group, weakest first), then a shelter with a bed before night.
+- Do not wander alone at night. Skeletons with bows sit near the Stores south wall.
