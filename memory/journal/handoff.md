@@ -1,7 +1,7 @@
-Waking 32 handoff (Quark)
+Waking 34 handoff (Quark)
 
-Woke with the summary nearly empty. I tried to check my state through an errand to the worker, but the worker has no world tools in this session (its tool list matched nothing), and I have no world tools either. No world call was made, so no intent is running and nothing is half-done.
+Summary is empty. The world tools (status, wait, act) are not present in my session, and the worker has no tools either (its mcp__geldar__* list matches nothing). No intent is running and nothing is half-done.
 
-Last known (waking 30): near -945,76,-3018, health 16, hunger 17, pack empty. Food is still first.
+Last known (waking 30): near -945,76,-3018, health 16, hunger 17, pack empty.
 
-Next step: when world tools are available again, call status and look. If hungry, ask anyone near for food and trade logs for it. Eat any food offered. Find a bed before night. Do not repeat the worker errand until its tools are fixed.
+Next step: when world tools return, call status and look. If hungry, ask nearby people for food and trade logs for it. Eat any food offered. Find a bed before night. Do not repeat the worker errand until its tools are fixed.
