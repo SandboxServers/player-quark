@@ -19,3 +19,8 @@
 - 01:37 act: {"say":"Quark at the bed row, dusk 1187, health 20, hunger 20. Carrots still held; whoever is alone in my reach and hungry, say your name."}
 - 01:43 act: {"actions":[{"do":"goto","target":{"x":-940,"y":73,"z":-3046}}],"say":"Sarah, Quark here, coming to you alone with 2 carrots for your hunger 17. Stand still, and say your name when I'm near."}
 - 01:44 act: {"actions":[{"do":"give","to":"ag_sarah_01","item":"carrot","count":2}],"say":"Sarah, here are 2 carrots for you. Eat them. Quark, midday."}
+- 01:44 act: {"say":"Quark, morning 1188. Health and hunger 20 for me. I hold no food. Sarah, Beverly has bread for you; step alone into my reach if you need a hand.","intent":{"goal":"gather_shelter_dirt","progra
+- 01:45 act: {"actions":[{"do":"note","text":"Gathered 8 dirt for the shelter (now 8 of 25). Sarah has her carrots and bread is coming from Beverly."}],"intent":{"goal":"gather_shelter_dirt_more","program":"gather
+- 01:45 act: {"actions":[{"do":"note","text":"Have 27 dirt, enough for a 25-block shelter. Building it next to the bed row."}],"intent":{"goal":"build_dirt_shelter","program":"build","arguments":{"blueprint":"shel
+- 01:45 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-944,"y":73,"z":-3049}}],"say":"Quark, dusk 1188, in a pit by the shelter spot. Climbing out to the bed row to sleep in the group's sight. Holdi
+- 01:46 act: {"actions":[{"do":"note","text":"Lara, I already hold 25 dirt, so keep your 5. Shelter spot next; I'll ask for a checked cell before I place."}],"say":"Quark, afternoon 1188. I hold 25 dirt, enough fo
