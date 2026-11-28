@@ -28,3 +28,18 @@
 - 04:50 act: {"actions":[{"do":"goto","target":{"x":-955,"y":73,"z":-3056}}],"say":"Quark, coming to you, Furiosa. I am named and will stand within your reach for my plank."}
 - 04:51 say: {"text":"Quark, in your reach now, Furiosa. Please give the dark oak plank."}
 - 05:12 act: {"actions":[{"do":"goto","target":{"x":-955,"y":73,"z":-3058}},{"do":"use","at":{"x":-955,"y":73,"z":-3059}}],"say":"Quark, dusk 1198. Going to the bed nearest me at the row, in the group's sight. Hea
+- 05:12 act: {"say":"Quark here. I hold no food, but I have 25 dirt for a shelter once we name a checked cell together. Who is hungry?"}
+- 05:14 act: {"say":"Quark, daylight. Mulan, yes: let's name a checked cell together. I propose open ground just west of the row, at -962,73,-3054. Anyone who sees a hole there, say so first. Food: Nemo and Clark,
+- 05:14 act: {"say":"Quark: I surveyed around -962,73,-3054. It reads as clear air, with the lantern at -961,73,-3054 as Mulan said. I name -962,73,-3054 as the checked cell for the wall. Mulan, Harriet, Lara, Ind
+- 05:15 act: {"actions":[{"do":"goto","target":{"x":-959,"y":73,"z":-3054}},{"do":"place","block":"dirt","at":{"x":-962,"y":73,"z":-3054}}],"say":"Placing one dirt at -962,73,-3054, the confirmed cell. Mulan, your
+- 05:17 act: {"say":"Quark: thanks Harriet. The floor under -962,73,-3054, at y 72, is air. I will not place there. Mulan, Odo: please hold the birch until the floor under the wall is checked and filled."}
+- 05:18 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-962,"y":72,"z":-3054}}],"say":"Filling the hole at -962,72,-3054 with one dirt now. Odo, Harriet: check it after, then we go on."}
+- 05:18 act: {"say":"Quark here, at -959,73,-3055. My dirt place at -962,72,-3054 failed: target occupied. Odo, Harriet, is the floor cell filled? Lara, hold your dirt until they confirm it is still a hole.","acti
+- 05:19 act: {"say":"Quark: I surveyed -962,72,-3054 just now. It is spruce planks, so the floor hole is filled. Lara, keep your dirt. Thank you. Still looking for food for the hungry.","actions":[]}
+- 05:19 act: {"say":"Quark: single-cell survey of -962,72,-3054 now reads spruce_planks, not air. Harriet, please look once more from your side. I will place no wall cell until you and Odo agree.","actions":[]}
+- 05:20 act: {"say":"Quark: I surveyed -962,72,-3054 twice. Both say spruce_planks. Harriet, your survey must be older or from another angle. Nobody places there until you survey it again.","actions":[]}
+- 05:21 act: {"say":"Quark: the floor is confirmed by Harriet and Odo, and I agree. Mulan, the wall cell is yours to place. I hold 24 dirt for the shelter if the group needs it. I still have no food and will look 
+- 05:22 act: {"say":"Quark: wall cell -962,73,-3054 is done, I agree. Harriet, I will walk west with you to look for cows, in your sight. Tell me when you leave.","actions":[]}
+- 05:26 act: {"say":"Quark: night 1199, going to my bed at the row, in the group's sight. Health and hunger 20 for now, no food.","intent":{"goal":"reach_bed","program":"travel","arguments":{"target":{"x":-959,"y"
+- 05:26 act: {"say":"Quark: in place at the row, night 1199, in the group's sight. Going to sleep.","actions":[{"do":"use","at":{"x":-959,"y":73,"z":-3059}}]}
+- 05:26 act: {"actions":[{"do":"goto","target":{"x":-959,"y":73,"z":-3058}},{"do":"use","at":{"x":-959,"y":73,"z":-3059}}],"say":"Quark: going to bed at the row, night 1199."}
