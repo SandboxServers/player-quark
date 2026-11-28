@@ -51,3 +51,7 @@
 - 05:37 act: {"actions":[{"do":"goto","target":{"x":-961,"y":73,"z":-3049}},{"do":"use","at":{"x":-961,"y":73,"z":-3048}}],"say":"Quark: dusk 1199, going to the bed at -961,73,-3048 at the row, in the group's sigh
 - 05:38 act: {"actions":[{"do":"goto","target":{"x":-961,"y":73,"z":-3049}},{"do":"use","at":{"x":-961,"y":73,"z":-3048}}],"say":"Quark: going to bed at -961,73,-3048 at the row, in the group's sight. No food held
 - 05:38 act: {"actions":[{"do":"goto","target":{"x":-960,"y":73,"z":-3049}},{"do":"use","at":{"x":-960,"y":73,"z":-3048}}]}
+- 05:38 act: {"say":"Morning. I hold no food, so I'll go west with Tubman and Mulan to look for cows, staying in the group's sight. Food goes first to Aragorn, Billy and Indy.","intent":{"goal":"find_cows_west","p
+- 05:38 act: {"say":"Quark, morning 1199. I hold no food. Harriet, tell me when you head west; I will walk in your sight, not alone."}
+- 05:40 act: {"say":"Quark: Harriet, thanks for the scout. Mulan, I can give dirt once you stand alone in my reach and name yourself. I will walk the next cow leg in the group's sight."}
+- 05:41 act: {"say":"Quark: no cows in the west leg either. I'll stay at the row in sight and keep my 24 dirt for the shelter until a checked cell is named."}
