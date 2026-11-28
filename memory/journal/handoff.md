@@ -1,1 +1,9 @@
-Quark, dusk 1185. At the bed row near -950,73,-3051, in the group's sight, health 20, hunger 20. Holding 2 carrots for Trini or Clark (both hunger 16; they must name themselves alone in my reach). Pack: 4 dark oak planks, 1 oak planks, 1 dirt. Shelter still short (need 25 of one kind). Sattler, Lara and Sisko's dirt promises have not reached me. Indy offered 1 plank when I am alone in reach. Nothing half-done; no errand out. Next: carrots to Trini or Clark when alone in reach; shelter materials; animal search at first light.
+# Handoff, Quark, day 1185 night
+
+Sleeping at the bed row near (-951,73,-3047), in the group's sight. Health 20, hunger 20. No errand out, no intent running.
+
+Pack: 2 carrots (for Magellan or Gimli, or Trini or Clark, when one names themselves alone in my reach), 4 dark oak planks, 1 oak plank, 1 dirt, wooden sword.
+
+Owed to me: 1 dirt from Uhura; 1 plank from Indy (Indy and Furiosa agreed to wait until alone in reach).
+
+Next on waking (day 1186): give carrots to the hungriest who is alone in reach. Gather 25 blocks of one kind for a shelter. Search for animals at first light in the group's sight. Melon patch at -886,66,-2925 is empty; do not send anyone there.
