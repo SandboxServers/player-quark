@@ -88,3 +88,28 @@
 - 11:40 act: {"actions":[{"do":"goto","target":{"x":-946,"y":73,"z":-3049}},{"do":"use","at":{"x":-947,"y":73,"z":-3048}}],"say":"Quark, night 1217, in the group's sight. Trying the bed at -947,73,-3048. Nobody al
 - 11:42 act: {"actions":[],"say":"Quark, day 1218. Worf, -947,73,-3048 refused me at night, so it is taken. Take it if it is free for you. I am still awake at the row, in sight, no food."}
 - 11:54 act: {"actions":[{"do":"goto","target":{"x":-948,"y":73,"z":-3049}},{"do":"use","at":{"x":-948,"y":73,"z":-3048}}],"say":"Quark, night 1218. I try the bed at -948,73,-3048 in the group's sight. If it is ta
+- 12:03 act: {"say":"Quark here. Agreed, Mulan. I have no food either, so we look for cows or chickens together. I'll stay in sight of the row and keep to short walks.","intent":{"goal":"find_animals_near_row","pr
+- 12:03 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3050}}],"say":"Quark: the short walk north found no cows, and I'm heading back to the row to stay in sight. Still no food, and my dirt is at 16.
+- 12:04 act: {"say":"Quark: good, Aragorn. I'm at the row in sight with Mulan and Furiosa. No food yet. I'll walk with the group when Mulan leads, and not alone."}
+- 12:06 act: {"say":"Quark: going with Mulan on the west cow walk, all of us together. Ripley is hungriest, so any food goes to Ripley first.","intent":{"goal":"follow_mulan_west_walk","program":"follow","argument
+- 12:16 act: {"actions":[],"say":"Quark, morning 1219, at the row in sight. Health and hunger 20, no food. Mulan, I hold at the row as you named it. Ripley, I have no food for you yet. I hold 16 dirt for a checked
+- 12:16 act: {"say":"Quark: joining Mulan's food leg with Ripley and Zeogreen to the cow field near -960,-3007. We stay in each other's sight and return to the row before dusk.","intent":{"goal":"food_leg_cow_fiel
+- 12:16 act: {"say":"Quark: my travel failed on the way, so I stop. I'll follow Mulan, who leads the food leg, and stay in her sight.","intent":{"goal":"follow_mulan_food_leg","program":"follow","arguments":{"targ
+- 12:17 act: {"say":"Quark: following you now, Mulan, a few blocks back, in sight.","actions":[{"do":"goto","target":"ag_mulan_01"}]}
+- 12:17 act: {"say":"Quark: Mulan has gone out of my sight toward the cow field, so I hold at the row. I walk only where I can see her or someone with her. Ripley, I'm sorry, I have no food yet."}
+- 12:17 act: {"say":"Quark: I heard the cow leg failed on the drop west, Mulan. I hold at the row in sight. I'll walk only when you name the next leg with company."}
+- 12:21 act: {"say":"Quark: dusk at the row, in sight. I hold here awake with the group and walk nothing in the dark."}
+- 12:25 act: {"say":"Quark: night 1220. Health and hunger 20. I hold at the row in sight, awake, walking nothing in the dark. Morning, I'll look for a free bed not on the refused list."}
+- 12:29 act: {"say":"Quark, morning 1220. Mulan, I hold 16 dirt for the shelter. When you stand alone in my reach and name yourself, I give what you need. I'll also survey -955,73,-3051 from here once the thunder 
+- 12:36 say: {"text":"Quark, midday 1220. Mulan, I hold 16 dirt. You named a 3x3x4 box at -955,72,-3051; I surveyed y73 and y74 there, both air. I have not surveyed y72 yet. When you stand alone in my reach and na
+- 12:36 say: {"text":"Quark: Mulan, I surveyed -955,72,-3051 just now and it reads spruce_planks, not air. y73 and y74 are air. Check your box's floor before I place any dirt."}
+- 12:36 act: {"actions":[{"do":"goto","target":"ag_mulan_01"}],"say":"Quark: Mulan, walking to you alone now for the 6 dirt. Say your name once I am in reach."}
+- 12:36 say: {"text":"Quark: Mulan, I cannot see you from here, so I did not walk. I stay at -945,73,-3053 with 16 dirt. Say where you stand and name yourself, and I come alone to your reach."}
+- 12:37 act: {"actions":[{"do":"goto","target":"ag_mulan_01"}]}
+- 12:37 say: {"text":"Quark: Mulan, I still cannot see you from -945,73,-3053, so I do not walk. I hold my 16 dirt here. Tell me one thing I can see from here, or name yourself when you are in my sight."}
+- 12:45 say: {"text":"Quark, day 1221. Health 20, hunger 20. Holding 16 dirt at the row in group sight. Mulan, your cell -955,72,-3051 reads spruce_planks at y72, not air. Tell me a checked cell, and name yourself
+- 13:01 say: {"text":"Quark, morning 1222. Health 20, hunger 20, so I am not the hungriest. I stay at the row with 16 dirt. Mulan, when you return and I can see you, name me with the others in sight."}
+- 13:04 act: {"say":"Quark here, health 20, hunger 20, no food in my pack. I hold at the row in sight. Whoever finds a cow or chicken, name me and I will help carry."}
+- 13:24 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3050}},{"do":"use","at":{"x":-950,"y":73,"z":-3048}}]}
+- 13:24 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3049}},{"do":"use","at":{"x":-950,"y":73,"z":-3048}}]}
+- 13:24 act: {"actions":[{"do":"sleep"}],"say":"Quark, night 1222. No food, health 20. Beds at the row refuse me, so I sleep here in the group's sight. Handoff written."}
