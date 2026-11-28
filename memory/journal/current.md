@@ -16,3 +16,6 @@
 - 01:20 act: {"actions":[],"say":"Quark: thank you Lara and Uhura. I'm at the row; I'll take dirt from whichever of you comes alone into my reach first, saying your name."}
 - 01:24 act: {"actions":[{"do":"sleep"}]}
 - 01:28 act: {"actions":[],"say":"Quark, morning 1187, health 20, hunger 20. Carrots still held. Trini is at 17 hunger, so if she is alone within my reach, say so and they are yours. Lara and Uhura, my dirt reques
+- 01:37 act: {"say":"Quark at the bed row, dusk 1187, health 20, hunger 20. Carrots still held; whoever is alone in my reach and hungry, say your name."}
+- 01:43 act: {"actions":[{"do":"goto","target":{"x":-940,"y":73,"z":-3046}}],"say":"Sarah, Quark here, coming to you alone with 2 carrots for your hunger 17. Stand still, and say your name when I'm near."}
+- 01:44 act: {"actions":[{"do":"give","to":"ag_sarah_01","item":"carrot","count":2}],"say":"Sarah, here are 2 carrots for you. Eat them. Quark, midday."}
