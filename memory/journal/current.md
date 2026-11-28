@@ -10,3 +10,9 @@
 - 01:00 act: {"actions":[{"do":"goto","target":"ag_magellan_01"},{"do":"give","to":"ag_magellan_01","item":"carrot","count":2}]}
 - 01:00 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3047}}],"say":"Magellan isn't in sight now. I'm heading back to the bed row for the night, with the group in sight. Carrots stay with me."}
 - 01:00 act: {"actions":[{"do":"use","at":{"x":-944,"y":73,"z":-3047}}]}
+- 01:01 act: {"actions":[{"do":"give","to":"Magellan","item":"carrot","count":2}],"say":"Magellan, I have 2 carrots for you. Hunger 17 is low, so I'm handing them over now."}
+- 01:15 act: {"actions":[],"say":"Quark, morning 1186. Trini, you're the weakest at 16. I hold 2 carrots. Step alone into my reach and say your name and they're yours."}
+- 01:16 act: {"actions":[],"say":"Quark: understood, Trini. I'll keep the carrots for whoever is weakest next. Indy, I'm still owed a plank; I'm collecting blocks for a shelter, so any spare planks or dirt, bring 
+- 01:20 act: {"actions":[],"say":"Quark: thank you Lara and Uhura. I'm at the row; I'll take dirt from whichever of you comes alone into my reach first, saying your name."}
+- 01:24 act: {"actions":[{"do":"sleep"}]}
+- 01:28 act: {"actions":[],"say":"Quark, morning 1187, health 20, hunger 20. Carrots still held. Trini is at 17 hunger, so if she is alone within my reach, say so and they are yours. Lara and Uhura, my dirt reques
