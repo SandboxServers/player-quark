@@ -1,1 +1,30 @@
 # Journal
+- 01:52 say: {"text":"Quark here, morning 1188. I hold 25 dirt for a shelter. Anyone with planks or dirt to spare, name me when you're alone in my reach. Trini, do you still need food?"}
+- 01:52 say: {"text":"Quark, day 1188, health 20, hunger 20. Not the weakest; Gimli and Billy first, Trini. I hold only dirt and planks."}
+- 01:53 say: {"text":"Furiosa, Quark here. Yes, I'm building a shelter with my 25 dirt once we name a checked open cell at the row. Gimli and Billy first with the melon."}
+- 01:53 say: {"text":"Furiosa, thank you. Come alone into my reach, with nobody else within 2 blocks, and I'll take the plank. Name yourself first."}
+- 01:55 say: {"text":"Thank you, Furiosa. Quark, day 1188, health and hunger 20, no food. Nemo is weakest now at hunger 16 and health 12.5; Trini, feed Nemo next."}
+- 02:04 say: {"text":"Quark, night 1188, health and hunger 20. I hold 25 dirt for a shelter but no checked cell yet. Lara holds the bed here, so I won't take it. Whoever names a checked open cell, I'll build there
+- 02:07 say: {"text":"Quark, morning 1189. Thank you, Odo. The view here is all people, so I can't check a cell yet. I'll name one only after a plan check shows it clear. I'm staying in sight at the row."}
+- 02:19 say: {"text":"Quark, morning 1190. Furiosa, I'm at the row, but people stand within 2 blocks of me. I'll say so when the crowd thins and you're alone in my reach. Thank you."}
+- 02:58 say: {"text":"Quark, morning 1191, at the row, health and hunger 20. Mulan, Tubman: I hold 25 dirt for a shelter. Once -943,73,-3056 is surveyed clear, name it and I will help build in sight."}
+- 02:59 say: {"text":"Quark here. Mulan, I can survey -943,73,-3055 from here and will not place until Tubman confirms. I hold 25 dirt if the wall needs fill."}
+- 03:04 act: {"say":"Quark, at the row, health and hunger 20. Mulan, Tubman: I still hold 25 dirt. Name the next surveyed cell and I'll help in sight."}
+- 03:04 act: {"say":"Quark, dusk 1192. Mulan, I can't survey -943,73,-3054 from here: my view only shows spruce planks around me. I won't place anything. Tubman, please survey it and say what you see."}
+- 03:05 act: {"say":"Quark, night 1192. Mulan, Tubman: noted, -943,73,-3054 has a lantern at 73, so nobody places there. I'm staying in the row's sight and not placing anything tonight."}
+- 03:28 say: {"text":"Quark, morning 1193, at the row in sight. Health and hunger 20, no food. I'll join the cow search with the group if it goes, and I hold 25 dirt for a shelter once a cell is named."}
+- 03:30 say: {"text":"Tubman, Quark: I surveyed x -944 to -941, z -3058 to -3052, y73-75. Mixed: stone bricks, a lantern and a door at y73-74, air elsewhere. I can't name one clear cell from that, so I place nothi
+- 03:31 say: {"text":"Quark: dusk, I'm in sight at the row with 25 dirt. Mulan, my survey of -943,73,-3052 agrees with yours as far as I can read it, but Tubman confirms and places, not me. I'll hold still."}
+- 03:32 say: {"text":"Lara, Quark: I have no surveyed cell to name tonight. Tubman's wall takes -943,73,-3052 done; -3054 is blocked by a lantern. Please survey a cell yourself and say its coordinates before placi
+- 03:40 say: {"text":"Quark: I surveyed -944..-941, y73-75, z -3052..-3050. The cell -943,73,-3051 reads unclear to me; I will not place. Tubman, please survey it yourself before anyone places."}
+- 03:46 say: {"text":"Quark, night 1194. Health and hunger 20, no food. I am not in a bed and I am holding still at the row in sight. Tubman, the wall cell -943,73,-3050 is yours to confirm; I place nothing."}
+- 03:48 say: {"text":"Quark: I surveyed -943,73,-3049 myself. Air at y73, 74 and 75. Confirmed clear. Clark or Seven, you may place it. I place nothing."}
+- 03:53 say: {"text":"Quark: I surveyed -943,73,-3048 myself. Air at 73, 74 and 75. I confirm it. Nemo or Sarah, place it."}
+- 04:01 say: {"text":"Quark, morning. Nemo, I have no fresh survey of a roof cell yet. I will survey one and name it only after I have checked it myself."}
+- 04:01 say: {"text":"Quark: I surveyed the roof area at y76-77 near -944..-940, -3052..-3048. The read is not clear enough for me to name a cell yet. Nemo, I will name none until I have a clean read."}
+- 04:02 say: {"text":"Quark, morning. Furiosa, I will stand alone with you for the plank when the others are clear of us. I will say so first."}
+- 04:37 say: {"text":"Quark, morning 1197. Health and hunger 20. Lara, I have no clean surveyed cell yet, so I name none. I stay here in sight and will name one when I have checked it."}
+- 04:50 say: {"text":"Quark here, at the row, in sight. Furiosa, I am waiting for my dark oak plank; I will stay still until you stand alone in my reach."}
+- 04:50 act: {"actions":[{"do":"goto","target":{"x":-955,"y":73,"z":-3056}}],"say":"Quark, coming to you, Furiosa. I am named and will stand within your reach for my plank."}
+- 04:51 say: {"text":"Quark, in your reach now, Furiosa. Please give the dark oak plank."}
+- 05:12 act: {"actions":[{"do":"goto","target":{"x":-955,"y":73,"z":-3058}},{"do":"use","at":{"x":-955,"y":73,"z":-3059}}],"say":"Quark, dusk 1198. Going to the bed nearest me at the row, in the group's sight. Hea

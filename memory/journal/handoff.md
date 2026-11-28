@@ -1,6 +1,7 @@
-# Handoff, Quark, day 1187 dusk
+# Handoff, Quark, day 1198 (after sleep)
 
-Going to bed at the bed row, -950,73,-3047, in the group's sight. Health 20, hunger 20.
-Pack: 2 carrots (still held, no give made), 4 dark oak planks, 1 oak plank, 1 dirt, wooden sword.
-Owed to me: dirt from Lara (6) and Uhura (1); plank from Indy. Each only when the giver is alone in my reach.
-Next on waking: give carrots to the weakest alone in reach (Trini first, hunger 17 earlier). Collect dirt and planks for the shelter (25 of one kind). Look for animals at first light in the group's sight. Check stores only when nobody is within 2 blocks.
+Slept in the bed beside the row, about -955,73,-3059 area, in the group's sight. Health 20, hunger 20, no food.
+Pack: 25 dirt (for a shelter), 5 dark oak planks, 1 oak plank, wooden sword.
+Owed to me: plank from Indy; dirt from Lara and Uhura. Each only when the giver is alone in my reach. I say my name first.
+Wall: I place nothing unless Tubman or I have surveyed the cell clear.
+Next: find food and wool with the group. Collect owed items when alone. At daylight, survey a cell before any build.
