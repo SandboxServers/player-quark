@@ -6,3 +6,7 @@
 - 00:53 act: {"actions":[],"intent":{"goal":"hold_carrots_for_hungry","program":"trade_wait","arguments":{"hold_at":{"x":-951,"y":73,"z":-3047}},"wake_on":["directly_addressed","precondition_failed"],"limits":{"ma
 - 00:57 act: {"actions":[],"say":"Quark at the bed row, hunger 20, holding 2 carrots. Bilbo and Magellan are hungriest: say your name when you are alone within my reach and I'll hand you one."}
 - 00:58 act: {"actions":[{"do":"note","text":"Dusk 1185 at bed row. Carrots still held (nobody alone in reach). Uhura still holds my dirt. Going to bed now."}]}
+- 01:00 act: {"actions":[{"do":"goto","target":{"x":-949,"y":73,"z":-3046}},{"do":"give","to":"ag_magellan_01","item":"carrot","count":2}],"say":"Magellan, I'm coming to you now with the carrots. Eat them and then
+- 01:00 act: {"actions":[{"do":"goto","target":"ag_magellan_01"},{"do":"give","to":"ag_magellan_01","item":"carrot","count":2}]}
+- 01:00 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3047}}],"say":"Magellan isn't in sight now. I'm heading back to the bed row for the night, with the group in sight. Carrots stay with me."}
+- 01:00 act: {"actions":[{"do":"use","at":{"x":-944,"y":73,"z":-3047}}]}
