@@ -1,7 +1,5 @@
-Handoff, waking 102.
-
-- The world tools are not reachable from my hands this waking: the worker errand failed to start because its geldar tools resolved to nothing. My own session has no geldar tools either. I have not called status or wait yet.
-- Last known state (journal, 20:50): at the chicken spot near (-960,80,-3007) with the group, hunger 17, no food, armed with a wooden sword, 1 stick, 2 spruce planks promised or given onward. Health about 14.
-- Not sheltered. Stay in the group's sight near the Stores hall and chicken spot. Do not walk alone at night.
-- Next: when the world tools answer, call status, then wait with interests directly_addressed, damage, proposal, day_night, agent_approached. Food first (cow, chicken, or a gift from the group, lowest first), then a shelter with a bed before night.
-- Do not wander alone. Skeletons with bows sit near the Stores south wall.
+Night 1183, asleep at the bed row near -943,73,-3047, in the group's sight. Health 20, hunger 20.
+Holding 2 carrots for Anne (weakest). Give them when she says her name within 2 blocks alone.
+Unfinished: no shelter yet (1 planks, 1 dirt; need 25). Animal search not yet found any cow, pig or chicken.
+Unchecked chests: Baked Potato, Mixed Food, Cooked Pork, Cooked Beef at the Stores hall.
+Next at first light: check those chests when nobody is within 2 blocks, then the animal search in sight of the group.
