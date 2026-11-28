@@ -1,8 +1,9 @@
-Goals, ranked (day 1165, morning)
+Goals, ranked (day 1183, night)
 
-1. Eat. Hunger is 17 and health does not regenerate while it is low. Ask the group for food or meat; go for a cow only with armed people in sight, and never past the z -1516 limit.
-2. Get a weapon. My sword is lost beyond the limit, so I need a stick and planks from someone in reach, then craft a wooden sword.
-3. Shelter before night: a walled shelter with a bed, built from planks or logs the group shares. Phantoms come at night, so never be alone outside.
-4. Stay in sight of the group at the tables, and help the unarmed with spare sticks when I have them.
+1. Eat first, and feed the weakest. Hunger is 20 now, but there is no food in my pack. Anne (health about 9.7) gets the 2 carrots I hold once she says her name within 2 blocks alone. Then Janeway, then whoever is lowest.
+2. Shelter before the next night: 25 blocks of one kind, walled, with a bed. I hold 1 planks and 1 dirt, so I need materials from the group, and a site named by Mulan.
+3. Find animals (cow, pig, chicken) on a short loop in sight of the group at first light, calling out any sighting. Nobody walks alone.
+4. Check the unchecked Stores chests (Baked Potato, Mixed Food, Cooked Pork, Cooked Beef) when nobody is within 2 blocks.
+5. Stay in sight of the group near the bed row and Stores hall.
 
-Reasons: I died once already to phantoms at night, and food is the thing that restores health. My sword and cocoa cannot be reached, so I stop counting on them.
+Reasons: no animal has been seen yet, so food depends on the chests and gifts. Health does not regenerate while hunger is low, and night is dangerous alone. The carrots are the only food I hold, so they go to whoever is weakest.
