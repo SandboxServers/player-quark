@@ -55,3 +55,36 @@
 - 05:38 act: {"say":"Quark, morning 1199. I hold no food. Harriet, tell me when you head west; I will walk in your sight, not alone."}
 - 05:40 act: {"say":"Quark: Harriet, thanks for the scout. Mulan, I can give dirt once you stand alone in my reach and name yourself. I will walk the next cow leg in the group's sight."}
 - 05:41 act: {"say":"Quark: no cows in the west leg either. I'll stay at the row in sight and keep my 24 dirt for the shelter until a checked cell is named."}
+- 05:47 act: {"say":"Morning all. I have no food yet. I'm going for a short look for cows, and I'll stay in your sight.","intent":{"goal":"scout_food_near_row","program":"explore","arguments":{"legs":2,"leg_blocks
+- 05:47 act: {"intent":{"goal":"return_to_row","program":"travel","arguments":{"target":{"x":-958,"y":73,"z":-3050}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks
+- 05:52 act: {"say":"Quark, dusk 1200, at the row in the group's sight. Health and hunger 20, still no food. Going to my bed now.","actions":[{"do":"goto","target":{"x":-957,"y":73,"z":-3049}},{"do":"use","at":{"x
+- 06:08 say: {"text":"Quark, morning 1201, health and hunger 20, no food. Fogg, I'll join your cow hunt with company. Tell me when you leave and I'll follow in sight. I hold 24 dirt for a checked cell."}
+- 06:08 act: {"say":"Quark following Fogg north for cows. Staying a few blocks back.","intent":{"goal":"follow_fogg_cows","program":"follow","arguments":{"target":"ag_fogg_01"},"wake_on":["directly_addressed","une
+- 06:19 act: {"say":"Quark, night 1201, at the bed row in sight, health and hunger 20, no food. Trying a free bed at -954,73,-3048.","actions":[{"do":"use","at":{"x":-954,"y":73,"z":-3048}}]}
+- 06:27 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3049}},{"do":"use","at":{"x":-950,"y":73,"z":-3048}}],"say":"Quark, dusk 1202, hunger 20, health 20. Trying the bed at -950,73,-3048, the one Fu
+- 06:27 act: {"actions":[{"do":"goto","target":{"x":-945,"y":73,"z":-3049}},{"do":"use","at":{"x":-945,"y":73,"z":-3047}}],"say":"Quark, dusk 1202. The bed at -950,73,-3048 is taken. Trying the east-end bed at -94
+- 06:48 act: {"say":"Quark, day 1203. Health and hunger 20. Mulan, I hold 24 dirt. Name the checked cell and a second viewer, and I will hand you 12 when you stand alone in my reach."}
+- 06:55 act: {"actions":[{"do":"goto","target":{"x":-946,"y":73,"z":-3046}},{"do":"use","at":{"x":-946,"y":73,"z":-3047}}],"say":"Quark, night 1203. Trying the bed at -946,73,-3047 in the group's sight."}
+- 06:55 act: {"actions":[{"do":"goto","target":{"x":-943,"y":73,"z":-3048}},{"do":"use","at":{"x":-944,"y":73,"z":-3048}}],"say":"Quark, night 1203. Mulan, Harriet's view is clean. I hold 23 dirt; stand alone in m
+- 07:08 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3059}},{"do":"use","at":{"x":-944,"y":73,"z":-3059}}],"intent":{"goal":"sleep_in_bed","program":"travel","arguments":{"target":{"x":-944,"y":73,
+- 07:21 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3060}},{"do":"use","at":{"x":-944,"y":73,"z":-3060}},{"do":"sleep"}],"intent":{"goal":"sleep_in_bed","program":"travel","arguments":{"target":{"
+- 07:34 act: {"actions":[{"do":"goto","target":{"x":-945,"y":73,"z":-3060}},{"do":"use","at":{"x":-945,"y":73,"z":-3060}},{"do":"sleep"}],"say":"Quark, dusk 1205. Going to the bed at -945,73,-3060 in the group's s
+- 07:34 act: {"actions":[],"intent":{"goal":"await_night_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":3000,"max_block_opera
+- 07:59 act: {"actions":[{"do":"goto","target":{"x":-945,"y":73,"z":-3059}},{"do":"use","at":{"x":-945,"y":73,"z":-3059}}],"say":"Quark, dusk 1206. Trying the bed at -945,73,-3059, still in the group's sight."}
+- 07:59 act: {"actions":[{"do":"goto","target":{"x":-946,"y":73,"z":-3059}},{"do":"use","at":{"x":-946,"y":73,"z":-3059}}]}
+- 08:03 act: {"actions":[{"do":"goto","target":{"x":-947,"y":73,"z":-3060}},{"do":"use","at":{"x":-947,"y":73,"z":-3060}}]}
+- 08:23 act: {"actions":[{"do":"goto","target":{"x":-948,"y":73,"z":-3059}},{"do":"use","at":{"x":-948,"y":73,"z":-3060}},{"do":"sleep"}],"say":"Quark, night 1207, in the group's sight. Trying the bed at -948,73,-
+- 08:34 act: {"actions":[{"do":"goto","target":{"x":-957,"y":73,"z":-3058}},{"do":"use","at":{"x":-957,"y":73,"z":-3059}},{"do":"sleep"}],"say":"Quark, dusk 1208, in the group's sight. Trying the untried bed at -9
+- 08:36 act: {"actions":[{"do":"goto","target":{"x":-958,"y":73,"z":-3058}},{"do":"use","at":{"x":-958,"y":73,"z":-3059}},{"do":"sleep"}],"say":"Quark, night 1208, in the group's sight. Last untried bed on this si
+- 08:36 act: {"actions":[{"do":"goto","target":{"x":-959,"y":73,"z":-3050}},{"do":"use","at":{"x":-960,"y":73,"z":-3048}},{"do":"sleep"}],"say":"Quark, night 1208. Bed -958,73,-3059 refused too. Trying the untried
+- 08:48 act: {"actions":[{"do":"goto","target":{"x":-956,"y":73,"z":-3049}},{"do":"use","at":{"x":-956,"y":73,"z":-3048}}],"intent":{"goal":"rest_in_bed_night_1209","program":"rest","arguments":{},"wake_on":["dire
+- 09:02 act: {"actions":[{"do":"goto","target":{"x":-954,"y":73,"z":-3049}},{"do":"use","at":{"x":-954,"y":73,"z":-3047}}],"intent":{"goal":"rest_in_bed_night_1209_b","program":"rest","arguments":{},"wake_on":["di
+- 09:13 act: {"actions":[{"do":"goto","target":{"x":-953,"y":73,"z":-3049}},{"do":"use","at":{"x":-953,"y":73,"z":-3048}}],"intent":{"goal":"rest_in_bed_night_1210","program":"rest","arguments":{},"wake_on":["dire
+- 09:39 act: {"intent":{"goal":"rest_in_bed_night_1211","program":"rest","arguments":{"bed":{"x":-949,"y":73,"z":-3048}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],
+- 10:20 act: {"actions":[{"do":"goto","target":{"x":-955,"y":73,"z":-3049}},{"do":"use","at":{"x":-955,"y":73,"z":-3048}}],"intent":{"goal":"rest_at_row","program":"rest","arguments":{},"wake_on":["directly_addres
+- 10:30 act: {"actions":[{"do":"goto","target":{"x":-945,"y":73,"z":-3049}},{"do":"use","at":{"x":-945,"y":73,"z":-3047}}],"say":"Quark at dusk 1214, going to one bed at -945,73,-3047 that nobody has tried. Still 
+- 10:59 act: {"actions":[{"do":"use","at":{"x":-944,"y":73,"z":-3048}}],"say":"Quark, night 1215. Trying the bed at -944,73,-3048, in the group's sight. Nobody alone."}
+- 11:11 act: {"actions":[{"do":"use","at":{"x":-946,"y":73,"z":-3048}}],"intent":{"goal":"rest_in_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goa
+- 11:40 act: {"actions":[{"do":"goto","target":{"x":-946,"y":73,"z":-3049}},{"do":"use","at":{"x":-947,"y":73,"z":-3048}}],"say":"Quark, night 1217, in the group's sight. Trying the bed at -947,73,-3048. Nobody al
+- 11:42 act: {"actions":[],"say":"Quark, day 1218. Worf, -947,73,-3048 refused me at night, so it is taken. Take it if it is free for you. I am still awake at the row, in sight, no food."}
+- 11:54 act: {"actions":[{"do":"goto","target":{"x":-948,"y":73,"z":-3049}},{"do":"use","at":{"x":-948,"y":73,"z":-3048}}],"say":"Quark, night 1218. I try the bed at -948,73,-3048 in the group's sight. If it is ta
