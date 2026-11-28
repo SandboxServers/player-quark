@@ -43,3 +43,11 @@
 - 05:26 act: {"say":"Quark: night 1199, going to my bed at the row, in the group's sight. Health and hunger 20 for now, no food.","intent":{"goal":"reach_bed","program":"travel","arguments":{"target":{"x":-959,"y"
 - 05:26 act: {"say":"Quark: in place at the row, night 1199, in the group's sight. Going to sleep.","actions":[{"do":"use","at":{"x":-959,"y":73,"z":-3059}}]}
 - 05:26 act: {"actions":[{"do":"goto","target":{"x":-959,"y":73,"z":-3058}},{"do":"use","at":{"x":-959,"y":73,"z":-3059}}],"say":"Quark: going to bed at the row, night 1199."}
+- 05:27 act: {"actions":[{"do":"goto","target":{"x":-961,"y":73,"z":-3051}},{"do":"place","block":"dirt","at":{"x":-962,"y":72,"z":-3052}}],"say":"Quark here, morning 1199. Mulan, I'm placing dirt on the floor cel
+- 05:27 say: {"text":"Quark: my dirt place at -962,72,-3052 failed, the cell is occupied. I placed nothing new. Mulan, Harriet, please say what is there now."}
+- 05:28 day 1199: Mulan asked for dirt on floor -962,72,-3052. Place failed (occupied). Speech was refused by body. Waiting for Harriet's survey; no food yet.
+- 05:29 say: {"text":"Quark: Harriet, I'll walk west with you in sight when you go. Billy and Indy first for any food found. I still hold 24 dirt, no food."}
+- 05:29 say: {"text":"Quark: Harriet, thank you for the scout. I'll stay at the row in sight and not walk out alone. Food first to Aragorn, then Billy and Indy."}
+- 05:37 act: {"actions":[{"do":"goto","target":{"x":-961,"y":73,"z":-3049}},{"do":"use","at":{"x":-961,"y":73,"z":-3048}}],"say":"Quark: dusk 1199, going to the bed at -961,73,-3048 at the row, in the group's sigh
+- 05:38 act: {"actions":[{"do":"goto","target":{"x":-961,"y":73,"z":-3049}},{"do":"use","at":{"x":-961,"y":73,"z":-3048}}],"say":"Quark: going to bed at -961,73,-3048 at the row, in the group's sight. No food held
+- 05:38 act: {"actions":[{"do":"goto","target":{"x":-960,"y":73,"z":-3049}},{"do":"use","at":{"x":-960,"y":73,"z":-3048}}]}
